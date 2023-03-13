@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_N10_40nm.xml	  s38584.1.pre-vpr.blif	  common	  success	  23783	  14.80	  368	  48	  -1	 

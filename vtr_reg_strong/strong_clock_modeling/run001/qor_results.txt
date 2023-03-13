@@ -1,0 +1,9 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ timing/k6_N10_40nm.xml	  microbenchmarks/d_flip_flop.v	  common	  success	  2	  0.12	  1	  -1	  -1	 
+ timing/k6_N10_40nm.xml	  microbenchmarks/d_flip_flop.v	  common	  success	  8	  0.12	  1	  -1	  -1	 
+ timing/k6_N10_40nm.xml	  verilog/mkPktMerge.v	  common	  success	  34	  0.48	  155	  -1	  -1	 
+ timing/k6_N10_40nm.xml	  verilog/mkPktMerge.v	  common	  success	  48	  0.53	  155	  -1	  -1	 
+ timing/k6_N10_mem32K_40nm.xml	  microbenchmarks/d_flip_flop.v	  common	  success	  2	  0.14	  1	  -1	  -1	 
+ timing/k6_N10_mem32K_40nm.xml	  microbenchmarks/d_flip_flop.v	  common	  success	  8	  0.14	  1	  -1	  -1	 
+ timing/k6_N10_mem32K_40nm.xml	  verilog/mkPktMerge.v	  common	  success	  13294	  5.70	  32	  -1	  -1	 
+ timing/k6_N10_mem32K_40nm.xml	  verilog/mkPktMerge.v	  common	  success	  14070	  6.12	  32	  -1	  -1	 

@@ -1,0 +1,9 @@
+arch	circuit	script_params	vpr_status	total_wirelength	total_runtime	num_clb	min_chan_width	crit_path_delay	
+k6_N10_mem32K_40nm.xml	ch_intrinsics.v	common	success	1327	48.05	70	38	-1	
+k6_N10_mem32K_40nm.xml	diffeq1.v	common	success	10769	109.19	52	48	-1	
+k6_N10_mem32K_40nm.xml	single_wire.v	common	success	1	5.06	0	2	-1	
+k6_N10_mem32K_40nm.xml	single_ff.v	common	success	2	5.10	1	2	-1	
+k6_N10_mem32K_40nm_i_or_o.xml	ch_intrinsics.v	common	success	1280	99.23	70	40	-1	
+k6_N10_mem32K_40nm_i_or_o.xml	diffeq1.v	common	success	12238	139.72	52	40	-1	
+k6_N10_mem32K_40nm_i_or_o.xml	single_wire.v	common	success	2	5.35	0	4	-1	
+k6_N10_mem32K_40nm_i_or_o.xml	single_ff.v	common	success	3	5.41	1	6	-1	

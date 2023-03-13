@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ arch.xml	  eblif_write.eblif	  common	  success	  11	  0.12	  -1	  2	  -1	 

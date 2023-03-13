@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ x_delta_y_delta.xml	  stereovision3.v	  common	  success	  279	  22.25	  13	  48	  -1	 

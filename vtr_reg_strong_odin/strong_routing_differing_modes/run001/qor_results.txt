@@ -1,0 +1,2 @@
+arch	circuit	script_params	vpr_status	total_wirelength	total_runtime	num_clb	min_chan_width	crit_path_delay	
+slicem.xml	carry_chain.blif	common	success	177	7.92	-1	27	-1	

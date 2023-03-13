@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_frac_N10_40nm.xml	  mult_3x3.blif	  common	  success	  21	  2.19	  1	  -1	  -1	 

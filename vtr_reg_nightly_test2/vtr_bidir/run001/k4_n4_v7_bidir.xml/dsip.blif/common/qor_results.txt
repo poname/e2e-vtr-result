@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k4_n4_v7_bidir.xml	  dsip.blif	  common	  success	  16981	  14.27	  390	  20	  -1	 

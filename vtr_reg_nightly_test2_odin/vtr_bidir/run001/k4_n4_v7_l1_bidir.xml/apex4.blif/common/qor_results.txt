@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k4_n4_v7_l1_bidir.xml	  apex4.blif	  common	  success	  17279	  39.18	  408	  26	  -1	 

@@ -1,0 +1,5 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k4_n4_v7_bidir.xml	  styr.blif	  common	  success	  1998	  1.83	  67	  13	  -1	 
+ k4_n4_v7_longline_bidir.xml	  styr.blif	  common	  success	  2532	  2.15	  67	  18	  -1	 
+ k4_n4_v7_l1_bidir.xml	  styr.blif	  common	  success	  1696	  3.07	  67	  11	  -1	 
+ k4_n4_v7_bidir_pass_gate.xml	  styr.blif	  common	  success	  2173	  2.94	  67	  16	  -1	 

@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ nonuniform_chan_width/k6_N10_mem32K_40nm_nonuniform.xml	  stereovision3.v	  common	  success	  120	  0.31	  12	  10	  -1	 

@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ EArch.xml	  styr.blif	  common	  success	  2777	  3.16	  90	  28	  -1	 

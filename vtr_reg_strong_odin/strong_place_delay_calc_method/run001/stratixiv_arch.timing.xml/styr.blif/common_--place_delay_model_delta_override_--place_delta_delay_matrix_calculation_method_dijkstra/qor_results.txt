@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ stratixiv_arch.timing.xml	  styr.blif	  common	  success	  889	  832.68	  -1	  18	  -1	 

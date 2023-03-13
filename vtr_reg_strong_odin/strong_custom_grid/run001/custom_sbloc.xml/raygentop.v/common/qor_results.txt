@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ custom_sbloc.xml	  raygentop.v	  common	  success	  22976	  586.39	  112	  66	  -1	 

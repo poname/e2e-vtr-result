@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ soft_fpu_arch_timing.xml	  dscg.v	  common	  success	  345906	  59.26	  6472	  -1	  -1	 

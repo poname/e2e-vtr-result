@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k4_N8_tileable_reset_softadder_register_scan_chain_nonLR_caravel_io_skywater130nm.xml	  reg_4x32.blif	  common	  success	  -1	  1.67	  32	  -1	  -1	 

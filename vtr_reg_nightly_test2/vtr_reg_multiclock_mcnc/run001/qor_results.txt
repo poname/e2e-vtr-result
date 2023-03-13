@@ -1,0 +1,11 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_frac_N10_40nm.xml	  bigkey.blif	  common	  success	  6318	  4.62	  53	  38	  -1	 
+ k6_frac_N10_40nm.xml	  clma.blif	  common	  success	  5152	  3.25	  77	  42	  -1	 
+ k6_frac_N10_40nm.xml	  diffeq.blif	  common	  success	  4468	  2.55	  51	  46	  -1	 
+ k6_frac_N10_40nm.xml	  dsip.blif	  common	  success	  9454	  6.87	  68	  36	  -1	 
+ k6_frac_N10_40nm.xml	  elliptic.blif	  common	  success	  15702	  8.79	  133	  64	  -1	 
+ k6_frac_N10_40nm.xml	  frisc.blif	  common	  success	  21778	  13.70	  153	  78	  -1	 
+ k6_frac_N10_40nm.xml	  s298.blif	  common	  success	  5642	  3.22	  62	  52	  -1	 
+ k6_frac_N10_40nm.xml	  s38417.blif	  common	  success	  15900	  10.39	  178	  48	  -1	 
+ k6_frac_N10_40nm.xml	  s38584.1.blif	  common	  success	  18650	  11.64	  196	  58	  -1	 
+ k6_frac_N10_40nm.xml	  tseng.blif	  common	  success	  3327	  2.26	  34	  58	  -1	 

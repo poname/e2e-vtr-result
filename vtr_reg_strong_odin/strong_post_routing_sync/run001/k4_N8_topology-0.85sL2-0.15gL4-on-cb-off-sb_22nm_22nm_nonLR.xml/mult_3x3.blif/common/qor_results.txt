@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm_nonLR.xml	  mult_3x3.blif	  common	  success	  230	  7.45	  3	  24	  -1	 

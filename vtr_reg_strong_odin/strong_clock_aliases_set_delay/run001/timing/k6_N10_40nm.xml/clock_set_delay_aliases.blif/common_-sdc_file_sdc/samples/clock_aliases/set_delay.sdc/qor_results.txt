@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ timing/k6_N10_40nm.xml	  clock_set_delay_aliases.blif	  common	  success	  6	  2.24	  2	  6	  -1	 

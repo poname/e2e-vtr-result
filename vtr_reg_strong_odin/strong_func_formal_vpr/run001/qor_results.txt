@@ -1,0 +1,7 @@
+arch	circuit	script_params	vpr_status	total_wirelength	total_runtime	num_clb	min_chan_width	crit_path_delay	
+k6_frac_N10_40nm.xml	const_true.blif	common	success	0	1.83	1	-1	-1	
+k6_frac_N10_40nm.xml	const_false.blif	common	success	0	1.82	1	-1	-1	
+k6_frac_N10_40nm.xml	always_true.blif	common	success	8	4.79	1	-1	-1	
+k6_frac_N10_40nm.xml	always_false.blif	common	success	8	4.78	1	-1	-1	
+k6_frac_N10_40nm.xml	multiconnected_lut.blif	common	success	7	1.90	1	-1	-1	
+k6_frac_N10_40nm.xml	multiconnected_lut2.blif	common	success	7	1.89	1	-1	-1	

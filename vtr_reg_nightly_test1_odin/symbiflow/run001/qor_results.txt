@@ -1,0 +1,7 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ arch.timing.xml	  picosoc_basys3_full_100.eblif	  common	  success	  267610	  338.80	  -1	  -1	  -1	 
+ arch.timing.xml	  picosoc_basys3_full_50.eblif	  common	  success	  279762	  203.68	  -1	  -1	  -1	 
+ arch.timing.xml	  linux_arty.eblif	  common	  success	  877267	  933.43	  -1	  -1	  -1	 
+ arch.timing.xml	  minilitex_arty.eblif	  common	  success	  392769	  480.80	  -1	  -1	  -1	 
+ arch.timing.xml	  minilitex_ddr_arty.eblif	  common	  success	  672067	  686.75	  -1	  -1	  -1	 
+ arch.timing.xml	  minilitex_ddr_eth_arty.eblif	  common	  success	  763400	  775.06	  -1	  -1	  -1	 

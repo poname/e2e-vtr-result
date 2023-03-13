@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ multiple_io_types.xml	  raygentop.v	  common	  success	  43008	  89.19	  120	  58	  -1	 

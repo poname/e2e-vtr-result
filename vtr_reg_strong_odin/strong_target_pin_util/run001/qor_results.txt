@@ -1,0 +1,14 @@
+arch	circuit	script_params	vpr_status	total_wirelength	total_runtime	num_clb	min_chan_width	crit_path_delay	
+EArch.xml	styr.blif	common	success	729	27.98	11	34	-1	
+EArch.xml	styr.blif	common	success	729	28.08	11	34	-1	
+EArch.xml	styr.blif	common	success	2777	131.24	90	28	-1	
+EArch.xml	styr.blif	common	success	1151	29.70	13	26	-1	
+EArch.xml	styr.blif	common	success	2980	135.80	101	20	-1	
+EArch.xml	styr.blif	common	success	729	28.00	11	34	-1	
+EArch.xml	styr.blif	common	success	729	27.96	11	34	-1	
+EArch.xml	styr.blif	common	success	2777	131.46	90	28	-1	
+EArch.xml	styr.blif	common	success	729	28.04	11	34	-1	
+EArch.xml	styr.blif	common	exited with return code 1	-1	8.27	-1	-1	-1	
+EArch.xml	styr.blif	common	exited with return code 1	-1	8.24	-1	-1	-1	
+EArch.xml	styr.blif	common	exited with return code 1	-1	8.28	-1	-1	-1	
+EArch.xml	styr.blif	common	exited with return code 1	-1	8.38	-1	-1	-1	

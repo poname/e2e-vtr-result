@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_frac_N10_mem32K_40nm_clk_pll_valid.xml	  multiclock_buf.blif	  common	  success	  83	  9.28	  4	  -1	  -1	 

@@ -1,0 +1,12 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  conv_layer.v	  common	  success	  232302	  118.74	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.mem_heavy.xml	  conv_layer.v	  common	  success	  215950	  72.30	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.dsp_heavy.xml	  conv_layer.v	  common	  success	  205971	  90.42	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.densest.xml	  conv_layer.v	  common	  success	  195885	  88.20	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.denser.xml	  conv_layer.v	  common	  success	  197695	  94.19	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.coupled.xml	  conv_layer.v	  common	  success	  235087	  133.82	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.coupled.densest.xml	  conv_layer.v	  common	  success	  204199	  97.01	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.coupled.denser.xml	  conv_layer.v	  common	  success	  201138	  83.03	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.clustered.xml	  conv_layer.v	  common	  success	  237659	  112.55	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.clustered.densest.xml	  conv_layer.v	  common	  success	  212267	  89.67	  819	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.clustered.denser.xml	  conv_layer.v	  common	  success	  216440	  106.16	  819	  -1	  -1	 

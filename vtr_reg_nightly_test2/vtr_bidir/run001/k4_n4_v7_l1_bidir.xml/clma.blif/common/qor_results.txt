@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k4_n4_v7_l1_bidir.xml	  clma.blif	  common	  success	  109946	  643.70	  2523	  34	  -1	 

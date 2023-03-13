@@ -1,0 +1,4 @@
+arch	circuit	script_params	vpr_status	total_wirelength	total_runtime	num_clb	min_chan_width	crit_path_delay	
+sub_tiles.xml	sub_tiles.blif	common	success	19	63.90	-1	6	-1	
+sub_tiles.xml	sub_tiles.blif	common	success	19	64.56	-1	6	-1	
+sub_tiles.xml	sub_tiles.blif	common	success	19	64.06	-1	6	-1	

@@ -1,0 +1,5 @@
+vpr_status=success
+vpr_seconds=618
+rundir=/root/vtr-verilog-to-routing/vtr-verilog-to-routing
+hostname=gh-actions-runner-vtr-auto-spawned7
+error=

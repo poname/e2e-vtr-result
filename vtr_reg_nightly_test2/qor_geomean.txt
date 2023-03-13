@@ -1,0 +1,2 @@
+run	vpr_status	total_wirelength	total_runtime	num_clb	min_chan_width	crit_path_delay	date	revision
+1	success	inf	141.6361447876058	423.4982344296258	29.821364571337018	-1	2023-03-13	

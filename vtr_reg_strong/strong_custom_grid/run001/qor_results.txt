@@ -1,0 +1,9 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ fixed_grid.xml	  raygentop.v	  common	  success	  28007	  28.41	  120	  58	  -1	 
+ column_io.xml	  raygentop.v	  common	  success	  28908	  33.90	  120	  64	  -1	 
+ multiwidth_blocks.xml	  raygentop.v	  common	  success	  27028	  17.87	  120	  72	  -1	 
+ non_column.xml	  raygentop.v	  common	  success	  27326	  29.45	  121	  58	  -1	 
+ non_column_tall_aspect_ratio.xml	  raygentop.v	  common	  success	  30717	  34.27	  121	  48	  -1	 
+ non_column_wide_aspect_ratio.xml	  raygentop.v	  common	  success	  33090	  38.02	  121	  48	  -1	 
+ custom_sbloc.xml	  raygentop.v	  common	  success	  26190	  17.71	  120	  70	  -1	 
+ multiple_io_types.xml	  raygentop.v	  common	  success	  43008	  89.19	  120	  58	  -1	 

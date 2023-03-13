@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  softmax.v	  common	  success	  130144	  120.43	  517	  -1	  -1	 

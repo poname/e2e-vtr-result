@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ EArch.xml	  ex5p.blif	  common	  success	  -1	  10.10	  59	  -1	  -1	 

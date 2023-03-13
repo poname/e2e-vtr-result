@@ -1,0 +1,3 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_frac_N10_40nm.xml	  riscv_core_lut6.blif	  common	  success	  -1	  1.47	  83	  -1	  -1	 
+ k6_frac_N10_40nm.xml	  riscv_core_lut6.blif	  common	  success	  -1	  1.57	  89	  -1	  -1	 

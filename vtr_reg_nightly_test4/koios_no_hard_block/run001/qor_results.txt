@@ -1,0 +1,13 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  tpu_like.small.os.v	  common	  success	  427740	  246.70	  1372	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  tpu_like.small.ws.v	  common	  success	  448596	  317.46	  1502	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  dla_like.small.v	  common	  success	  772789	  271.82	  5039	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  bnn.v	  common	  success	  1248077	  633.45	  6605	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  attention_layer.v	  common	  success	  336358	  300.72	  1107	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  conv_layer_hls.v	  common	  success	  94726	  242.78	  1841	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  conv_layer.v	  common	  success	  258151	  129.99	  1101	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  eltwise_layer.v	  common	  success	  225766	  127.50	  756	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  robot_rl.v	  common	  success	  173651	  93.83	  928	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  reduction_layer.v	  common	  success	  178442	  74.98	  724	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  spmv.v	  common	  success	  236358	  366.10	  660	  -1	  -1	 
+ k6_frac_N10_frac_chain_depop50_mem32K_40nm.xml	  softmax.v	  common	  success	  211731	  107.57	  1441	  -1	  -1	 

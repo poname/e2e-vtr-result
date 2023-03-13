@@ -1,0 +1,15 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  bgm.v	  common	  success	  47934	  22.64	  689	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  blob_merge.v	  common	  success	  138099	  51.57	  1309	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  boundtop.v	  common	  success	  5389	  3.52	  84	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  LU8PEEng.v	  common	  success	  339513	  278.90	  2994	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  mkDelayWorker32B.v	  common	  success	  25147	  134.17	  530	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  mkSMAdapter4B.v	  common	  success	  23850	  25.83	  268	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  or1200.v	  common	  success	  60904	  21.00	  506	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  raygentop.v	  common	  success	  26395	  14.10	  256	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  sha.v	  common	  success	  31734	  10.65	  339	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  stereovision0.v	  common	  success	  118886	  65.82	  1797	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  stereovision1.v	  common	  success	  184101	  109.82	  1714	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  stereovision2.v	  common	  success	  736559	  532.74	  4676	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  LU32PEEng.v	  common	  success	  1482464	  1179.58	  10059	  -1	  -1	 
+ k4_N8_topology-0.85sL2-0.15gL4-on-cb-off-sb_22nm_22nm.xml	  mcml.v	  common	  success	  1072699	  1024.87	  11309	  -1	  -1	 

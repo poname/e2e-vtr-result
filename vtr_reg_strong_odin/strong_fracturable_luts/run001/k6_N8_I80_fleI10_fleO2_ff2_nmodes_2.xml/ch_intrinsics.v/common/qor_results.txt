@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_N8_I80_fleI10_fleO2_ff2_nmodes_2.xml	  ch_intrinsics.v	  common	  success	  1461	  56.63	  67	  36	  -1	 

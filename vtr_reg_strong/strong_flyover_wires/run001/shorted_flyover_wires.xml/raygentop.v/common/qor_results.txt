@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ shorted_flyover_wires.xml	  raygentop.v	  common	  success	  31151	  19.55	  120	  70	  -1	 

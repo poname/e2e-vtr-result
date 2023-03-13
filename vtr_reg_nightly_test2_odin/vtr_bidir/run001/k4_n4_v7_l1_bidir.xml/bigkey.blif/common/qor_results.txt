@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k4_n4_v7_l1_bidir.xml	  bigkey.blif	  common	  success	  12525	  43.40	  456	  12	  -1	 

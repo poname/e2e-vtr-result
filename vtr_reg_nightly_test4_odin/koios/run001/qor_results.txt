@@ -1,0 +1,13 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  tpu_like.small.os.v	  common	  success	  406656	  643.48	  534	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  tpu_like.small.ws.v	  common	  success	  289120	  628.44	  1027	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  dla_like.small.v	  common	  success	  981530	  1149.67	  4752	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  bnn.v	  common	  success	  1220424	  706.25	  5692	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  attention_layer.v	  common	  success	  478513	  891.42	  1453	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  conv_layer_hls.v	  common	  success	  106865	  616.47	  1714	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  conv_layer.v	  common	  success	  244489	  154.36	  958	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  eltwise_layer.v	  common	  success	  198437	  120.79	  362	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  robot_rl.v	  common	  success	  228131	  151.54	  1283	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  reduction_layer.v	  common	  success	  189202	  96.18	  805	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  spmv.v	  common	  success	  216937	  275.02	  504	  -1	  -1	 
+ k6FracN10LB_mem20K_complexDSP_customSB_22nm.xml	  softmax.v	  common	  success	  126675	  153.86	  514	  -1	  -1	 

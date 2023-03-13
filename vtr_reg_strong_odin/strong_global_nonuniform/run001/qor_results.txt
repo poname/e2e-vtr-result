@@ -1,0 +1,7 @@
+arch	circuit	script_params	vpr_status	total_wirelength	total_runtime	num_clb	min_chan_width	crit_path_delay	
+x_gaussian_y_uniform.xml	stereovision3.v	common	success	321	19.39	13	14	-1	
+x_uniform_y_gaussian.xml	stereovision3.v	common	success	340	21.99	13	10	-1	
+x_gaussian_y_gaussian.xml	stereovision3.v	common	success	328	19.44	13	14	-1	
+x_delta_y_uniform.xml	stereovision3.v	common	success	311	22.03	13	54	-1	
+x_delta_y_delta.xml	stereovision3.v	common	success	279	22.25	13	48	-1	
+x_uniform_y_delta.xml	stereovision3.v	common	success	267	22.24	13	44	-1	
