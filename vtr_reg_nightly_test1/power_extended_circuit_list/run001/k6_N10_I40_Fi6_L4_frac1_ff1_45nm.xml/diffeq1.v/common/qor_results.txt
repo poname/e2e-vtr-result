@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  diffeq1.v	  common	  success	  11841	  7.55	  38	  50	  -1	 

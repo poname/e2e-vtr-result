@@ -1,0 +1,7 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_N8_gate_boost_0.2V_22nm.xml	  Md5Core.v	  common	  success	  448391	  567.79	  5694	  74	  -1	 
+ k6_N8_gate_boost_0.2V_22nm.xml	  cordic.v	  common	  success	  5695	  3.66	  49	  48	  -1	 
+ k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  Md5Core.v	  common	  success	  306321	  497.97	  5125	  78	  -1	 
+ k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  cordic.v	  common	  success	  4428	  4.41	  41	  48	  -1	 
+ k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  Md5Core.v	  common	  success	  304821	  574.84	  5176	  70	  -1	 
+ k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  cordic.v	  common	  success	  4546	  3.24	  39	  52	  -1	 

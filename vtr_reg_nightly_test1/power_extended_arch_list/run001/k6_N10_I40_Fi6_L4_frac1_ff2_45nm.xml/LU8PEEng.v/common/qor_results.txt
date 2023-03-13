@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_N10_I40_Fi6_L4_frac1_ff2_45nm.xml	  LU8PEEng.v	  common	  success	  226183	  410.44	  1266	  100	  -1	 

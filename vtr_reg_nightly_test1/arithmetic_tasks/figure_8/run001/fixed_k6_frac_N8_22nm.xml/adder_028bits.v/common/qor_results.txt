@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ fixed_k6_frac_N8_22nm.xml	  adder_028bits.v	  common	  success	  1701	  4.69	  8	  34	  -1	 

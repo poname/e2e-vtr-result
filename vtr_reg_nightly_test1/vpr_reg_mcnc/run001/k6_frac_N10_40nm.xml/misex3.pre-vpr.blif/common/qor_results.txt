@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_frac_N10_40nm.xml	  misex3.pre-vpr.blif	  common	  success	  7431	  4.27	  72	  50	  -1	 

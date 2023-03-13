@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_frac_N10_40nm.xml	  ex5p.pre-vpr.blif	  common	  success	  6824	  3.46	  62	  58	  -1	 

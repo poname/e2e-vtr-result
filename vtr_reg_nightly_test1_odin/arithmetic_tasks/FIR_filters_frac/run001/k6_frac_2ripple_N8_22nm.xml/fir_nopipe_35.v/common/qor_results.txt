@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_frac_2ripple_N8_22nm.xml	  fir_nopipe_35.v	  common	  success	  20788	  18.11	  106	  72	  -1	 

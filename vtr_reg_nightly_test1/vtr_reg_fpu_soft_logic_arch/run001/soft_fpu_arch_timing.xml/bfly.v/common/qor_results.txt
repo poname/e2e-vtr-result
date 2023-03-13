@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ soft_fpu_arch_timing.xml	  bfly.v	  common	  success	  43509	  8.47	  1040	  -1	  -1	 

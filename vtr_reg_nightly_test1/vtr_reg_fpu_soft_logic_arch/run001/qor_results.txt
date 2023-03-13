@@ -1,0 +1,8 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ soft_fpu_arch_timing.xml	  bfly.v	  common	  success	  43509	  8.47	  1040	  -1	  -1	 
+ soft_fpu_arch_timing.xml	  bgm.v	  common	  success	  55833	  8.45	  1412	  -1	  -1	 
+ soft_fpu_arch_timing.xml	  dscg.v	  common	  success	  23119	  4.35	  565	  -1	  -1	 
+ soft_fpu_arch_timing.xml	  fir.v	  common	  success	  11091	  2.72	  470	  -1	  -1	 
+ soft_fpu_arch_timing.xml	  mm3.v	  common	  success	  4633	  1.40	  188	  -1	  -1	 
+ soft_fpu_arch_timing.xml	  ode.v	  common	  success	  61467	  11.82	  1376	  -1	  -1	 
+ soft_fpu_arch_timing.xml	  syn2.v	  common	  success	  112990	  23.97	  2290	  -1	  -1	 

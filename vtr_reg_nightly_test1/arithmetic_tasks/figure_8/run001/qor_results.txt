@@ -1,0 +1,221 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_003bits.v	  common	  success	  145	  2.37	  2	  20	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_004bits.v	  common	  success	  170	  2.38	  2	  20	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_005bits.v	  common	  success	  189	  2.45	  2	  22	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_006bits.v	  common	  success	  317	  2.41	  3	  20	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_007bits.v	  common	  success	  417	  2.51	  3	  26	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_008bits.v	  common	  success	  454	  2.39	  4	  20	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_009bits.v	  common	  success	  541	  2.47	  4	  26	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_010bits.v	  common	  success	  673	  2.53	  5	  26	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_011bits.v	  common	  success	  650	  2.45	  6	  26	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_012bits.v	  common	  success	  869	  2.80	  6	  26	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_013bits.v	  common	  success	  820	  2.66	  7	  26	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_014bits.v	  common	  success	  843	  2.65	  7	  28	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_015bits.v	  common	  success	  751	  2.60	  10	  30	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_016bits.v	  common	  success	  1033	  2.66	  7	  28	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_018bits.v	  common	  success	  1120	  2.67	  10	  30	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_020bits.v	  common	  success	  1005	  2.80	  11	  30	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_022bits.v	  common	  success	  1329	  2.91	  13	  26	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_024bits.v	  common	  success	  1398	  2.73	  12	  28	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_028bits.v	  common	  success	  1386	  2.95	  14	  30	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_032bits.v	  common	  success	  1896	  3.09	  16	  30	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_048bits.v	  common	  success	  3206	  3.28	  24	  32	  -1	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  adder_064bits.v	  common	  success	  4126	  3.41	  35	  32	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_003bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_004bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_005bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_006bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_007bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_008bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_009bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_010bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_011bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_012bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_013bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_014bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_015bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_016bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_018bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_020bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_022bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_024bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_028bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_032bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_048bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_chain_gate_boost_0.2V_22nm.xml	  adder_064bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_003bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_004bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_005bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_006bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_007bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_008bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_009bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_010bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_011bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_012bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_013bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_014bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_015bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_016bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_018bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_020bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_022bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_024bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_028bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_032bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_048bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_064bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_003bits.v	  common	  success	  125	  2.26	  2	  14	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_004bits.v	  common	  success	  150	  2.41	  2	  26	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_005bits.v	  common	  success	  197	  2.56	  2	  30	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_006bits.v	  common	  success	  354	  2.32	  4	  20	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_007bits.v	  common	  success	  300	  2.47	  3	  26	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_008bits.v	  common	  success	  323	  2.47	  4	  26	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_009bits.v	  common	  success	  402	  2.55	  4	  26	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_010bits.v	  common	  success	  381	  2.55	  5	  26	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_011bits.v	  common	  success	  449	  2.62	  5	  30	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_012bits.v	  common	  success	  525	  2.63	  5	  26	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_013bits.v	  common	  success	  541	  2.58	  6	  28	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_014bits.v	  common	  success	  652	  2.57	  7	  28	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_015bits.v	  common	  success	  863	  2.56	  7	  26	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_016bits.v	  common	  success	  643	  2.62	  7	  30	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_018bits.v	  common	  success	  1042	  2.55	  8	  26	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_020bits.v	  common	  success	  1112	  2.68	  8	  30	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_022bits.v	  common	  success	  1230	  2.67	  10	  30	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_024bits.v	  common	  success	  1324	  2.70	  10	  32	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_028bits.v	  common	  success	  1643	  2.74	  11	  30	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_032bits.v	  common	  success	  1689	  2.82	  13	  30	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_048bits.v	  common	  success	  2747	  2.98	  19	  32	  -1	 
+ fixed_k6_N8_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_064bits.v	  common	  success	  3649	  3.09	  25	  32	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_003bits.v	  common	  success	  125	  2.26	  2	  14	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_004bits.v	  common	  success	  143	  2.38	  2	  20	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_005bits.v	  common	  success	  201	  2.55	  2	  30	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_006bits.v	  common	  success	  401	  2.40	  4	  22	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_007bits.v	  common	  success	  343	  2.37	  3	  20	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_008bits.v	  common	  success	  341	  2.48	  4	  26	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_009bits.v	  common	  success	  435	  2.48	  4	  26	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_010bits.v	  common	  success	  463	  2.46	  5	  24	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_011bits.v	  common	  success	  454	  2.55	  5	  26	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_012bits.v	  common	  success	  572	  2.61	  5	  26	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_013bits.v	  common	  success	  580	  2.52	  6	  28	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_014bits.v	  common	  success	  640	  2.62	  7	  30	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_015bits.v	  common	  success	  626	  2.67	  7	  32	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_016bits.v	  common	  success	  725	  2.62	  7	  30	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_018bits.v	  common	  success	  1054	  2.56	  8	  26	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_020bits.v	  common	  success	  1130	  2.66	  8	  32	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_022bits.v	  common	  success	  1201	  2.68	  10	  32	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_024bits.v	  common	  success	  1408	  2.72	  10	  32	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_028bits.v	  common	  success	  1625	  2.72	  11	  32	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_032bits.v	  common	  success	  1835	  2.72	  13	  28	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_048bits.v	  common	  success	  2581	  2.89	  19	  30	  -1	 
+ fixed_k6_N8_unbalanced_ripple_chain_gate_boost_0.2V_22nm.xml	  adder_064bits.v	  common	  success	  3928	  3.39	  25	  32	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_003bits.v	  common	  success	  85	  2.39	  1	  16	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_004bits.v	  common	  success	  103	  2.31	  1	  14	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_005bits.v	  common	  success	  154	  2.47	  1	  20	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_006bits.v	  common	  success	  208	  2.45	  2	  18	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_007bits.v	  common	  success	  232	  2.55	  2	  26	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_008bits.v	  common	  success	  448	  2.62	  2	  26	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_009bits.v	  common	  success	  366	  2.54	  2	  26	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_010bits.v	  common	  success	  467	  2.66	  2	  30	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_011bits.v	  common	  success	  572	  3.08	  3	  34	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_012bits.v	  common	  success	  712	  3.12	  3	  34	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_013bits.v	  common	  success	  572	  2.79	  3	  32	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_014bits.v	  common	  success	  720	  3.22	  4	  34	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_015bits.v	  common	  success	  794	  2.81	  3	  30	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_016bits.v	  common	  success	  810	  3.14	  4	  34	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_018bits.v	  common	  success	  751	  3.36	  4	  34	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_020bits.v	  common	  success	  916	  3.42	  4	  36	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_022bits.v	  common	  success	  1235	  3.34	  5	  34	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_024bits.v	  common	  success	  1544	  3.26	  5	  34	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_028bits.v	  common	  success	  1468	  3.67	  6	  38	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_032bits.v	  common	  success	  1764	  4.17	  7	  38	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_048bits.v	  common	  success	  2550	  4.57	  10	  48	  -1	 
+ fixed_k6_frac_2ripple_N8_22nm.xml	  adder_064bits.v	  common	  success	  3505	  4.72	  13	  56	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_003bits.v	  common	  success	  67	  2.53	  1	  26	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_004bits.v	  common	  exited with return code 2	  108	  2.22	  1	  10	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_005bits.v	  common	  success	  142	  2.59	  1	  26	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_006bits.v	  common	  success	  224	  2.38	  2	  18	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_007bits.v	  common	  success	  170	  2.59	  2	  26	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_008bits.v	  common	  success	  355	  2.62	  2	  26	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_009bits.v	  common	  success	  348	  2.57	  2	  26	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_010bits.v	  common	  success	  483	  2.58	  2	  28	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_011bits.v	  common	  success	  547	  2.71	  3	  28	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_012bits.v	  common	  success	  648	  3.18	  3	  34	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_013bits.v	  common	  success	  548	  2.89	  3	  30	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_014bits.v	  common	  success	  776	  2.75	  4	  32	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_015bits.v	  common	  success	  795	  2.76	  3	  30	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_016bits.v	  common	  success	  1036	  2.75	  4	  30	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_018bits.v	  common	  success	  890	  2.88	  4	  30	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_020bits.v	  common	  success	  1170	  3.40	  4	  34	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_022bits.v	  common	  success	  1295	  2.81	  5	  32	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_024bits.v	  common	  success	  1299	  3.52	  5	  34	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_028bits.v	  common	  success	  1638	  3.88	  6	  36	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_032bits.v	  common	  success	  1857	  3.96	  7	  38	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_048bits.v	  common	  success	  3402	  4.50	  10	  42	  -1	 
+ fixed_k6_frac_2uripple_N8_22nm.xml	  adder_064bits.v	  common	  success	  3763	  4.81	  13	  50	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_003bits.v	  common	  success	  82	  2.47	  1	  22	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_004bits.v	  common	  success	  108	  2.40	  1	  18	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_005bits.v	  common	  success	  261	  2.40	  2	  18	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_006bits.v	  common	  success	  236	  2.53	  2	  26	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_007bits.v	  common	  success	  353	  2.59	  2	  26	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_008bits.v	  common	  success	  423	  2.65	  2	  28	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_009bits.v	  common	  success	  440	  2.66	  3	  30	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_010bits.v	  common	  success	  643	  2.82	  3	  30	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_011bits.v	  common	  success	  637	  2.69	  3	  26	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_012bits.v	  common	  success	  713	  2.93	  3	  30	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_013bits.v	  common	  success	  814	  3.11	  4	  26	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_014bits.v	  common	  success	  887	  3.54	  4	  34	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_015bits.v	  common	  success	  931	  3.55	  5	  34	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_016bits.v	  common	  success	  1147	  3.45	  5	  28	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_018bits.v	  common	  success	  1102	  4.07	  6	  30	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_020bits.v	  common	  success	  1404	  3.51	  6	  30	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_022bits.v	  common	  success	  1157	  3.68	  6	  34	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_024bits.v	  common	  success	  1212	  4.15	  8	  34	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_028bits.v	  common	  success	  1701	  4.69	  8	  34	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_032bits.v	  common	  success	  1768	  5.37	  9	  36	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_048bits.v	  common	  success	  2947	  7.31	  13	  38	  -1	 
+ fixed_k6_frac_N8_22nm.xml	  adder_064bits.v	  common	  success	  4668	  9.24	  18	  34	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_003bits.v	  common	  success	  64	  2.54	  1	  26	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_004bits.v	  common	  success	  155	  2.35	  2	  14	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_005bits.v	  common	  success	  296	  2.65	  3	  26	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_006bits.v	  common	  success	  237	  3.01	  3	  34	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_007bits.v	  common	  success	  351	  2.70	  3	  26	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_008bits.v	  common	  success	  447	  2.52	  3	  24	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_009bits.v	  common	  success	  342	  2.56	  3	  26	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_010bits.v	  common	  success	  535	  2.67	  3	  28	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_011bits.v	  common	  success	  551	  2.61	  4	  26	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_012bits.v	  common	  success	  567	  2.73	  4	  28	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_013bits.v	  common	  success	  662	  2.77	  4	  32	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_014bits.v	  common	  success	  749	  2.81	  5	  32	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_015bits.v	  common	  success	  799	  2.84	  5	  30	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_016bits.v	  common	  success	  815	  2.81	  5	  32	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_018bits.v	  common	  success	  907	  2.86	  5	  32	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_020bits.v	  common	  success	  1030	  3.28	  6	  34	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_022bits.v	  common	  success	  1376	  3.29	  7	  34	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_024bits.v	  common	  success	  1478	  2.87	  7	  32	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_028bits.v	  common	  success	  1648	  3.38	  8	  34	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_032bits.v	  common	  success	  1892	  3.42	  9	  34	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_048bits.v	  common	  success	  3112	  3.63	  13	  34	  -1	 
+ fixed_k6_frac_ripple_N8_22nm.xml	  adder_064bits.v	  common	  success	  4295	  4.18	  17	  34	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_003bits.v	  common	  success	  73	  2.48	  1	  22	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_004bits.v	  common	  success	  158	  2.30	  2	  14	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_005bits.v	  common	  success	  306	  2.55	  3	  22	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_006bits.v	  common	  success	  249	  3.09	  3	  34	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_007bits.v	  common	  success	  329	  2.68	  3	  28	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_008bits.v	  common	  success	  402	  2.62	  3	  26	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_009bits.v	  common	  success	  311	  2.56	  3	  26	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_010bits.v	  common	  success	  344	  2.71	  3	  26	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_011bits.v	  common	  success	  487	  2.80	  4	  32	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_012bits.v	  common	  success	  508	  2.67	  4	  28	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_013bits.v	  common	  success	  728	  2.81	  4	  32	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_014bits.v	  common	  success	  752	  2.78	  5	  32	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_015bits.v	  common	  success	  847	  2.87	  5	  30	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_016bits.v	  common	  success	  957	  2.79	  5	  30	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_018bits.v	  common	  success	  914	  3.23	  5	  34	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_020bits.v	  common	  success	  933	  2.80	  6	  30	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_022bits.v	  common	  success	  1355	  3.35	  7	  34	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_024bits.v	  common	  success	  1400	  3.38	  7	  34	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_028bits.v	  common	  success	  1684	  3.35	  8	  34	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_032bits.v	  common	  success	  1814	  3.35	  9	  34	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_048bits.v	  common	  success	  3129	  3.61	  13	  34	  -1	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  adder_064bits.v	  common	  success	  4203	  4.00	  17	  34	  -1	 

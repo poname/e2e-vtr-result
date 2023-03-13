@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ fixed_k6_N8_lookahead_unbalanced_chain_gate_boost_0.2V_22nm.xml	  adder_014bits.v	  common	  exited with return code 134	  -1	  -1	  -1	  -1	  -1	 

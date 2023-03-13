@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ fixed_k6_N8_gate_boost_0.2V_22nm.xml	  mult_122.v	  common	  success	  4484	  6.18	  34	  36	  -1	 

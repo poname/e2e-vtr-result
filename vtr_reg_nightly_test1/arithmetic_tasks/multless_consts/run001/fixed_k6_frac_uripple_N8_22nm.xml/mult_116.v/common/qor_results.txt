@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ fixed_k6_frac_uripple_N8_22nm.xml	  mult_116.v	  common	  success	  2651	  5.65	  25	  34	  -1	 

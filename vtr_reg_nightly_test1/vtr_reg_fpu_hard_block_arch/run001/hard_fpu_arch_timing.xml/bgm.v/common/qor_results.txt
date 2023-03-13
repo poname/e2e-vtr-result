@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ hard_fpu_arch_timing.xml	  bgm.v	  common	  success	  24862	  8.79	  0	  -1	  -1	 

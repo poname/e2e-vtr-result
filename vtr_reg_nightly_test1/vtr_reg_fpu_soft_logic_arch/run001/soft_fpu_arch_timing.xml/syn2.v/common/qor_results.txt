@@ -1,0 +1,2 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ soft_fpu_arch_timing.xml	  syn2.v	  common	  success	  112990	  23.97	  2290	  -1	  -1	 

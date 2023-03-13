@@ -1,0 +1,15 @@
+ arch	  circuit	  script_params	  vpr_status	  total_wirelength	  total_runtime	  num_clb	  min_chan_width	  crit_path_delay	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  bgm.v	  common	  success	  35506	  21.01	  313	  60	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  blob_merge.v	  common	  success	  67063	  49.70	  537	  66	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  boundtop.v	  common	  success	  6306	  4.38	  51	  38	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  ch_intrinsics.v	  common	  success	  1238	  1.95	  68	  48	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  diffeq1.v	  common	  success	  11841	  7.55	  38	  50	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  diffeq2.v	  common	  success	  8497	  7.55	  26	  44	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  LU8PEEng.v	  common	  success	  244541	  370.10	  1377	  96	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  mkDelayWorker32B.v	  common	  success	  21640	  65.92	  460	  38	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  mkPktMerge.v	  common	  success	  14592	  14.36	  26	  40	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  mkSMAdapter4B.v	  common	  success	  17122	  11.79	  152	  50	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  or1200.v	  common	  success	  50872	  68.81	  236	  78	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  raygentop.v	  common	  success	  25617	  16.32	  133	  60	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  sha.v	  common	  success	  18301	  9.03	  146	  50	  -1	 
+ k6_N10_I40_Fi6_L4_frac1_ff1_45nm.xml	  mcml.v	  common	  success	  619753	  1460.60	  6712	  88	  -1	 
